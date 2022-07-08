@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[10]:
-
-
 def factorial(n):
     if n==0 or n==1:
         return 1
